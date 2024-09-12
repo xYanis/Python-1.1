@@ -123,11 +123,12 @@ print(resultat)
 """3.4 Utilisez une built-in function pour renvoyer la valeur minimum de la `list` suivante:"""
 
 a_list = [3.2, 41, 2, 23, 7]
-count = len(x)
-print(count)
+minimum_value = min(a_list)
+print(minimum_value)
+
 
 """3.5 Utilisez une built-in function pour renvoyer la somme des valeurs de la `list` suivante:"""
 
 a_list = [3.2, 41, 2, 23, 7]
-count = len(x)
-print(count)
+total_sum = sum(a_list)
+print(total_sum)
